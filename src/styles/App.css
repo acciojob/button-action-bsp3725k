@@ -1,1 +1,28 @@
-/* Your CSS code here. */
+/* Initially hide the paragraph */
+.hide {
+    display: none;
+  }
+  
+  /* Show the paragraph when the class is set to 'show' */
+  .show {
+    display: block;
+  }
+  
+  /* Optional styling */
+  #main {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  #click {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  #para {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #333;
+  }
+  
